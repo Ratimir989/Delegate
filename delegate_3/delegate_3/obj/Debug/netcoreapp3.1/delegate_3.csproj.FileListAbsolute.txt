@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\bin\Debug\netcoreapp3.1\delegate_3.exe
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\bin\Debug\netcoreapp3.1\delegate_3.deps.json
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\bin\Debug\netcoreapp3.1\delegate_3.runtimeconfig.json
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\bin\Debug\netcoreapp3.1\delegate_3.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\bin\Debug\netcoreapp3.1\delegate_3.dll
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\bin\Debug\netcoreapp3.1\delegate_3.pdb
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\obj\Debug\netcoreapp3.1\delegate_3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\obj\Debug\netcoreapp3.1\delegate_3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\obj\Debug\netcoreapp3.1\delegate_3.dll
+C:\Users\Admin\source\repos\Delegate\delegate_3\delegate_3\obj\Debug\netcoreapp3.1\delegate_3.pdb
